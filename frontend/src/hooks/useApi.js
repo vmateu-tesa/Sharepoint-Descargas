@@ -13,6 +13,8 @@ export const useApi = () => {
   const selectFolder = (id, folderUrl, selected) => 
     axios.post(`${API_URL}/jobs/${id}/items/select`, { folderUrl, selected });
 
+  const clearJobs = () => axios.delete(`${API_URL}/jobs/clear`);
+
   return {
     getJobs,
     getJob,
@@ -21,6 +23,7 @@ export const useApi = () => {
     createJob,
     scanJob,
     startJob,
-    selectFolder
+    selectFolder,
+    clearJobs
   };
 };

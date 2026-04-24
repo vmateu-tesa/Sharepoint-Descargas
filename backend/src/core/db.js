@@ -145,6 +145,14 @@ export class StateStore {
             
             // Stats
             fileStats: this.db.prepare(`SELECT status, COUNT(*) as count FROM files WHERE job_id = ? GROUP BY status`),
+
+            // Cleanup
+            clearFinishedJobs: this.db.prepare(`
+                DELETE FROM jobs WHERE status IN ('COMPLETED', 'COMPLETED_WITH_ERRORS', 'FAILED')
+            `),
+            clearOrphanedFolders: this.db.prepare(`DELETE FROM folders WHERE job_id NOT IN (SELECT id FROM jobs)`),
+            clearOrphanedFiles: this.db.prepare(`DELETE FROM files WHERE job_id NOT IN (SELECT id FROM jobs)`),
+            clearOrphanedEvents: this.db.prepare(`DELETE FROM events WHERE job_id NOT IN (SELECT id FROM jobs)`),
         };
     }
 
@@ -196,5 +204,15 @@ export class StateStore {
     }
 
     transaction(fn) { return this.db.transaction(fn)(); }
+
+    clearFinishedJobs() {
+        this.transaction(() => {
+            this._stmts.clearFinishedJobs.run();
+            this._stmts.clearOrphanedFolders.run();
+            this._stmts.clearOrphanedFiles.run();
+            this._stmts.clearOrphanedEvents.run();
+        });
+    }
+
     close() { this.db.close(); }
 }

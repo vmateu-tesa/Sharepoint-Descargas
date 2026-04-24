@@ -31,6 +31,16 @@ function App() {
     }
   };
 
+  const handleClearJobs = async () => {
+    if (!window.confirm('Clear all finished and failed jobs from history?')) return;
+    try {
+      await api.clearJobs();
+      await fetchJobs();
+    } catch (err) {
+      alert('Error clearing jobs: ' + err.message);
+    }
+  };
+
   if (selectedJobId) {
     return (
       <JobDetail 
@@ -49,6 +59,7 @@ function App() {
         jobs={jobs} 
         onSelectJob={(job) => setSelectedJobId(job.id)} 
         onCreateJob={handleCreateJob} 
+        onClearJobs={handleClearJobs}
       />
     </div>
   );

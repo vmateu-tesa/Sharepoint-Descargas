@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import { FolderTree, Search } from 'lucide-react';
+import { FolderTree, Search, Trash2 } from 'lucide-react';
 
-const JobList = ({ jobs, onSelectJob, onCreateJob }) => {
+const JobList = ({ jobs, onSelectJob, onCreateJob, onClearJobs }) => {
   const [showModal, setShowModal] = useState(false);
   const [targetPath, setTargetPath] = useState('C:\\sharepoint-mirror');
   const [siteUrl, setSiteUrl] = useState('');
@@ -15,12 +15,22 @@ const JobList = ({ jobs, onSelectJob, onCreateJob }) => {
   return (
     <div className="p-8 max-w-4xl mx-auto relative">
       <h1 className="text-3xl font-bold mb-6">SharePoint Mirror Manager</h1>
-      <button 
-        onClick={() => setShowModal(true)} 
-        className="bg-blue-600 text-white px-4 py-2 rounded mb-6 flex items-center gap-2 hover:bg-blue-700 transition-colors"
-      >
-        <FolderTree size={20} /> Create New Mirror Job
-      </button>
+      
+      <div className="flex items-center gap-2 mb-6">
+        <button 
+          onClick={() => setShowModal(true)} 
+          className="bg-blue-600 text-white px-4 py-2 rounded flex items-center gap-2 hover:bg-blue-700 transition-colors"
+        >
+          <FolderTree size={20} /> Create New Mirror Job
+        </button>
+
+        <button 
+          onClick={onClearJobs} 
+          className="bg-white border border-gray-300 text-gray-700 px-4 py-2 rounded flex items-center gap-2 hover:bg-gray-50 transition-colors"
+        >
+          <Trash2 size={20} className="text-gray-400" /> Clear Finished
+        </button>
+      </div>
       
       {showModal && (
         <div className="fixed inset-0 bg-black/50 flex items-center justify-center p-4 z-50">

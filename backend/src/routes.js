@@ -151,5 +151,15 @@ export function createRouter(stateStore) {
         res.json({ job, stats, events });
     });
 
+    router.delete('/jobs/clear', (req, res) => {
+        try {
+            stateStore.clearFinishedJobs();
+            res.json({ status: 'OK' });
+        } catch (err) {
+            logger.error(`Failed to clear jobs: ${err.message}`);
+            res.status(500).json({ error: err.message });
+        }
+    });
+
     return router;
 }
