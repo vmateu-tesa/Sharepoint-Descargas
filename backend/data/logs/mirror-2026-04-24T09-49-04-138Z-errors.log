@@ -1,0 +1,4 @@
+{"level":"error","message":"Failed to process folder /sites/segittur/Shared Documents/01 Grupo de Destinos: API 403 ","timestamp":"2026-04-24T13:03:43.244+02:00","tool":"sharepoint-mirror"}
+{"level":"error","message":"Failed to process folder /sites/segittur/Shared Documents/02 Asesoramiento a destinos: API 403 ","timestamp":"2026-04-24T13:28:48.222+02:00","tool":"sharepoint-mirror"}
+{"level":"error","message":"Failed to download 25.03.26 - S15,S16,S17.mp4: fetch failed","stack":"TypeError: fetch failed","timestamp":"2026-04-24T13:37:20.349+02:00","tool":"sharepoint-mirror"}
+{"level":"error","message":"Failed to download 27.02.26 - Módulos y Graph QL.mp4: fetch failed","stack":"TypeError: fetch failed","timestamp":"2026-04-24T13:37:20.864+02:00","tool":"sharepoint-mirror"}
