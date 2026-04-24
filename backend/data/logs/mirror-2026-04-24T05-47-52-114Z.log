@@ -1,3 +1,0 @@
-{"level":"info","message":"State DB opened: C:\\Users\\vmate\\.gemini\\antigravity\\scratch\\sharepoint-mirror\\backend\\data\\app.db","timestamp":"2026-04-24T07:47:52.721+02:00","tool":"sharepoint-mirror"}
-{"level":"info","message":"Backend API running on http://localhost:3000","timestamp":"2026-04-24T07:47:52.728+02:00","tool":"sharepoint-mirror"}
-{"level":"info","message":"PROCESS EXITING WITH CODE 0","timestamp":"2026-04-24T07:47:52.739+02:00","tool":"sharepoint-mirror"}

@@ -1,4 +1,0 @@
-{"level":"info","message":"State DB opened: C:\\Users\\vmate\\.gemini\\antigravity\\scratch\\sharepoint-mirror\\data\\state.db","timestamp":"2026-04-23T14:04:08.715+02:00","tool":"sharepoint-mirror"}
-{"level":"info","message":"Connecting to browser...","timestamp":"2026-04-23T14:04:08.717+02:00","tool":"sharepoint-mirror"}
-{"level":"info","message":"Connecting to browser at http://localhost:9222...","timestamp":"2026-04-23T14:04:08.717+02:00","tool":"sharepoint-mirror"}
-{"level":"info","message":"Connected to browser via CDP","timestamp":"2026-04-23T14:04:09.121+02:00","tool":"sharepoint-mirror"}
