@@ -206,11 +206,14 @@ export class StateStore {
     transaction(fn) { return this.db.transaction(fn)(); }
 
     clearFinishedJobs() {
+        const statuses = "('COMPLETED', 'COMPLETED_WITH_ERRORS', 'FAILED')";
         this.transaction(() => {
-            this._stmts.clearFinishedJobs.run();
-            this._stmts.clearOrphanedFolders.run();
-            this._stmts.clearOrphanedFiles.run();
-            this._stmts.clearOrphanedEvents.run();
+            // Delete dependent records first to satisfy FK constraints
+            this.db.prepare(`DELETE FROM events WHERE job_id IN (SELECT id FROM jobs WHERE status IN ${statuses})`).run();
+            this.db.prepare(`DELETE FROM files WHERE job_id IN (SELECT id FROM jobs WHERE status IN ${statuses})`).run();
+            this.db.prepare(`DELETE FROM folders WHERE job_id IN (SELECT id FROM jobs WHERE status IN ${statuses})`).run();
+            // Finally delete the jobs
+            this.db.prepare(`DELETE FROM jobs WHERE status IN ${statuses}`).run();
         });
     }
 
