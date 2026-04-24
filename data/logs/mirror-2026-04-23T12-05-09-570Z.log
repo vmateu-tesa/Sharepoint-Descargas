@@ -1,0 +1,30 @@
+{"level":"info","message":"State DB opened: C:\\Users\\vmate\\.gemini\\antigravity\\scratch\\sharepoint-mirror\\data\\state.db","timestamp":"2026-04-23T14:05:09.617+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connecting to browser...","timestamp":"2026-04-23T14:05:09.618+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connecting to browser at http://localhost:9222...","timestamp":"2026-04-23T14:05:09.619+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connected to browser via CDP","timestamp":"2026-04-23T14:05:10.055+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Found SharePoint tab: https://consulting.eu.deloitteonline.com/sites/segittur/SitePages/Home.aspx?RootFolder=%2Fsites%2Fsegittur%2FShared%20Documents%2F02%20Asesoramiento%20a%20destinos%2F02%2E01%20General%20Destinos&FolderCTID=0x0120001B6B1179D279C44E9063B6CD700AEBC9&View=%7BE2221462%2DF32D%2D4EE0%2D9F98%2DA11912BA5F84%7D","timestamp":"2026-04-23T14:05:10.056+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Detected SharePoint site: https://consulting.eu.deloitteonline.com/sites/segittur","timestamp":"2026-04-23T14:05:10.227+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Detected library path: /sites/segittur/AnalyticsReports","timestamp":"2026-04-23T14:05:10.227+02:00","tool":"sharepoint-mirror"}
+{"level":"info","library":"/sites/segittur/AnalyticsReports","message":"Created run #1","siteUrl":"https://consulting.eu.deloitteonline.com/sites/segittur","timestamp":"2026-04-23T14:05:10.228+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"═══ PHASE 1: Discovery ═══","timestamp":"2026-04-23T14:05:10.228+02:00","tool":"sharepoint-mirror"}
+{"level":"info","libraryPath":"/sites/segittur/AnalyticsReports","message":"Starting library discovery...","phase":"discovery","timestamp":"2026-04-23T14:05:10.229+02:00","tool":"sharepoint-mirror"}
+{"durationMs":154,"level":"debug","message":"API call","phase":"api","responseSize":3681,"status":200,"timestamp":"2026-04-23T14:05:10.385+02:00","tool":"sharepoint-mirror","url":"https://consulting.eu.deloitteonline.com/sites/segittur/_api/web/GetFolderByServerRelativeUrl('%2Fsites%2Fsegittur%2FAnalyticsReports')?$expand=Folders,Files"}
+{"filesFound":0,"level":"info","message":"Discovered: /sites/segittur/AnalyticsReports","phase":"discovery","subfoldersFound":0,"timestamp":"2026-04-23T14:05:10.385+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Discovery complete: 1 folders, 0 files","phase":"discovery","timestamp":"2026-04-23T14:05:11.399+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Discovery complete: 1 folders, 0 files","timestamp":"2026-04-23T14:05:11.399+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Generating artifacts...","phase":"artifacts","timestamp":"2026-04-23T14:05:11.400+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Inventory written: C:\\Users\\vmate\\.gemini\\antigravity\\scratch\\sharepoint-mirror\\data\\inventory.json (1 folders, 0 files)","timestamp":"2026-04-23T14:05:11.402+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Manifest written: C:\\Users\\vmate\\.gemini\\antigravity\\scratch\\sharepoint-mirror\\data\\manifest.csv (0 records)","timestamp":"2026-04-23T14:05:11.406+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Run #1 finished with status: completed","timestamp":"2026-04-23T14:05:11.408+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Artifacts generated","phase":"artifacts","timestamp":"2026-04-23T14:05:11.408+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"═══ PHASE 2: Download ═══","timestamp":"2026-04-23T14:05:11.408+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Starting download phase...","phase":"download","timestamp":"2026-04-23T14:05:11.408+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Download phase complete: 0 downloaded, 0 failed, 0 skipped","phase":"download","timestamp":"2026-04-23T14:05:11.409+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Download complete: 0 verified, 0 failed, 0 skipped","timestamp":"2026-04-23T14:05:11.409+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"═══ PHASE 3: Report ═══","timestamp":"2026-04-23T14:05:11.409+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Generating artifacts...","phase":"artifacts","timestamp":"2026-04-23T14:05:11.409+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Inventory written: C:\\Users\\vmate\\.gemini\\antigravity\\scratch\\sharepoint-mirror\\data\\inventory.json (1 folders, 0 files)","timestamp":"2026-04-23T14:05:11.411+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Manifest written: C:\\Users\\vmate\\.gemini\\antigravity\\scratch\\sharepoint-mirror\\data\\manifest.csv (0 records)","timestamp":"2026-04-23T14:05:11.412+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Run #1 finished with status: completed","timestamp":"2026-04-23T14:05:11.413+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Artifacts generated","phase":"artifacts","timestamp":"2026-04-23T14:05:11.414+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"State DB closed","timestamp":"2026-04-23T14:05:11.429+02:00","tool":"sharepoint-mirror"}

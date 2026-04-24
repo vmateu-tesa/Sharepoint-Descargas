@@ -1,0 +1,39 @@
+{"level":"info","message":"State DB opened: :memory:","timestamp":"2026-04-23T12:56:03.381+02:00","tool":"sharepoint-mirror"}
+{"level":"info","library":"/sites/test/Shared Documents","message":"Created run #1","siteUrl":"https://contoso.sharepoint.com/sites/test","timestamp":"2026-04-23T12:56:03.383+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"State DB opened: :memory:","timestamp":"2026-04-23T12:56:03.389+02:00","tool":"sharepoint-mirror"}
+{"level":"info","library":"/docs","message":"Created run #1","siteUrl":"https://test.sharepoint.com","timestamp":"2026-04-23T12:56:03.390+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Run #1 finished with status: completed","timestamp":"2026-04-23T12:56:03.390+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"State DB opened: :memory:","timestamp":"2026-04-23T12:56:03.393+02:00","tool":"sharepoint-mirror"}
+{"level":"info","library":"/docs","message":"Created run #1","siteUrl":"https://test.sharepoint.com","timestamp":"2026-04-23T12:56:03.394+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"State DB opened: :memory:","timestamp":"2026-04-23T12:56:03.396+02:00","tool":"sharepoint-mirror"}
+{"level":"info","library":"/docs","message":"Created run #1","siteUrl":"https://test.sharepoint.com","timestamp":"2026-04-23T12:56:03.397+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Run #1 finished with status: completed","timestamp":"2026-04-23T12:56:03.398+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"State DB opened: :memory:","timestamp":"2026-04-23T12:56:03.402+02:00","tool":"sharepoint-mirror"}
+{"level":"info","library":"/docs","message":"Created run #1","siteUrl":"https://test.sharepoint.com","timestamp":"2026-04-23T12:56:03.404+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"State DB opened: :memory:","timestamp":"2026-04-23T12:56:03.410+02:00","tool":"sharepoint-mirror"}
+{"level":"info","library":"/docs","message":"Created run #1","siteUrl":"https://test.sharepoint.com","timestamp":"2026-04-23T12:56:03.411+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"State DB opened: :memory:","timestamp":"2026-04-23T12:56:03.414+02:00","tool":"sharepoint-mirror"}
+{"level":"info","library":"/docs","message":"Created run #1","siteUrl":"https://test.sharepoint.com","timestamp":"2026-04-23T12:56:03.415+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"State DB opened: :memory:","timestamp":"2026-04-23T12:56:03.421+02:00","tool":"sharepoint-mirror"}
+{"level":"info","library":"/docs","message":"Created run #1","siteUrl":"https://test.sharepoint.com","timestamp":"2026-04-23T12:56:03.426+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"State DB opened: :memory:","timestamp":"2026-04-23T12:56:03.430+02:00","tool":"sharepoint-mirror"}
+{"level":"info","library":"/docs","message":"Created run #1","siteUrl":"https://test.sharepoint.com","timestamp":"2026-04-23T12:56:03.431+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"State DB opened: :memory:","timestamp":"2026-04-23T12:56:03.434+02:00","tool":"sharepoint-mirror"}
+{"level":"info","library":"/docs","message":"Created run #1","siteUrl":"https://test.sharepoint.com","timestamp":"2026-04-23T12:56:03.434+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"State DB opened: :memory:","timestamp":"2026-04-23T12:56:03.441+02:00","tool":"sharepoint-mirror"}
+{"level":"info","library":"/docs","message":"Created run #1","siteUrl":"https://test.sharepoint.com","timestamp":"2026-04-23T12:56:03.442+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"State DB opened: :memory:","timestamp":"2026-04-23T12:56:03.445+02:00","tool":"sharepoint-mirror"}
+{"level":"info","library":"/docs","message":"Created run #1","siteUrl":"https://test.sharepoint.com","timestamp":"2026-04-23T12:56:03.445+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"State DB opened: :memory:","timestamp":"2026-04-23T12:56:03.449+02:00","tool":"sharepoint-mirror"}
+{"level":"info","library":"/docs","message":"Created run #1","siteUrl":"https://test.sharepoint.com","timestamp":"2026-04-23T12:56:03.450+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Reset 1 stuck \"downloading\" files to \"pending\"","timestamp":"2026-04-23T12:56:03.451+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"State DB opened: :memory:","timestamp":"2026-04-23T12:56:03.454+02:00","tool":"sharepoint-mirror"}
+{"level":"info","library":"/docs","message":"Created run #1","siteUrl":"https://test.sharepoint.com","timestamp":"2026-04-23T12:56:03.455+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"State DB opened: :memory:","timestamp":"2026-04-23T12:56:03.458+02:00","tool":"sharepoint-mirror"}
+{"level":"info","library":"/docs","message":"Created run #1","siteUrl":"https://test.sharepoint.com","timestamp":"2026-04-23T12:56:03.459+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"State DB opened: :memory:","timestamp":"2026-04-23T12:56:03.462+02:00","tool":"sharepoint-mirror"}
+{"level":"info","library":"/docs","message":"Created run #1","siteUrl":"https://test.sharepoint.com","timestamp":"2026-04-23T12:56:03.462+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"State DB opened: :memory:","timestamp":"2026-04-23T12:56:03.465+02:00","tool":"sharepoint-mirror"}
+{"level":"info","library":"/docs","message":"Created run #1","siteUrl":"https://test.sharepoint.com","timestamp":"2026-04-23T12:56:03.465+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"State DB opened: :memory:","timestamp":"2026-04-23T12:56:03.468+02:00","tool":"sharepoint-mirror"}
+{"level":"info","library":"/docs","message":"Created run #1","siteUrl":"https://test.sharepoint.com","timestamp":"2026-04-23T12:56:03.470+02:00","tool":"sharepoint-mirror"}

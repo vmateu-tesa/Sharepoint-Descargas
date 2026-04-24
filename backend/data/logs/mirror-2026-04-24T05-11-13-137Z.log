@@ -1,0 +1,106 @@
+{"level":"info","message":"State DB opened: C:\\Users\\vmate\\.gemini\\antigravity\\scratch\\sharepoint-mirror\\backend\\data\\app.db","timestamp":"2026-04-24T07:11:13.776+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Backend API running on http://localhost:3000","timestamp":"2026-04-24T07:11:13.786+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connecting to browser at http://localhost:9222...","timestamp":"2026-04-24T07:17:49.375+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connected to browser via CDP","timestamp":"2026-04-24T07:17:49.908+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Detected SharePoint site: https://login.microsoftonline.com","timestamp":"2026-04-24T07:17:56.955+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Detected library path: /Shared Documents","timestamp":"2026-04-24T07:17:56.956+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connecting to browser at http://localhost:9222...","timestamp":"2026-04-24T07:18:00.843+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connected to browser via CDP","timestamp":"2026-04-24T07:18:01.286+02:00","tool":"sharepoint-mirror"}
+{"jobId":2,"level":"info","libraryPath":"/Shared Documents","message":"(discovery) Starting discovery phase...","timestamp":"2026-04-24T07:18:01.288+02:00","tool":"sharepoint-mirror"}
+{"durationMs":376,"level":"debug","message":"API call","phase":"api","responseSize":0,"status":404,"timestamp":"2026-04-24T07:18:01.665+02:00","tool":"sharepoint-mirror","url":"undefined/_api/web/GetFolderByServerRelativeUrl('%2FShared%20Documents')?$expand=Folders,Files?$expand=Folders,Files"}
+{"level":"error","message":"Failed to process folder /Shared Documents: API 404 ","timestamp":"2026-04-24T07:18:01.666+02:00","tool":"sharepoint-mirror"}
+{"jobId":2,"level":"info","message":"(discovery) Discovery phase complete","timestamp":"2026-04-24T07:18:01.669+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connecting to browser at http://localhost:9222...","timestamp":"2026-04-24T07:18:12.856+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connected to browser via CDP","timestamp":"2026-04-24T07:18:13.306+02:00","tool":"sharepoint-mirror"}
+{"jobId":2,"level":"info","message":"(download) Starting download phase...","timestamp":"2026-04-24T07:18:13.307+02:00","tool":"sharepoint-mirror"}
+{"jobId":2,"level":"info","message":"(download) Download phase complete","timestamp":"2026-04-24T07:18:13.308+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connecting to browser at http://localhost:9222...","timestamp":"2026-04-24T07:18:15.815+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connected to browser via CDP","timestamp":"2026-04-24T07:18:16.240+02:00","tool":"sharepoint-mirror"}
+{"jobId":2,"level":"info","message":"(download) Starting download phase...","timestamp":"2026-04-24T07:18:16.241+02:00","tool":"sharepoint-mirror"}
+{"jobId":2,"level":"info","message":"(download) Download phase complete","timestamp":"2026-04-24T07:18:16.242+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connecting to browser at http://localhost:9222...","timestamp":"2026-04-24T07:18:16.918+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connected to browser via CDP","timestamp":"2026-04-24T07:18:17.341+02:00","tool":"sharepoint-mirror"}
+{"jobId":2,"level":"info","message":"(download) Starting download phase...","timestamp":"2026-04-24T07:18:17.342+02:00","tool":"sharepoint-mirror"}
+{"jobId":2,"level":"info","message":"(download) Download phase complete","timestamp":"2026-04-24T07:18:17.343+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connecting to browser at http://localhost:9222...","timestamp":"2026-04-24T07:18:20.113+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connecting to browser at http://localhost:9222...","timestamp":"2026-04-24T07:18:20.326+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connected to browser via CDP","timestamp":"2026-04-24T07:18:20.530+02:00","tool":"sharepoint-mirror"}
+{"jobId":2,"level":"info","message":"(download) Starting download phase...","timestamp":"2026-04-24T07:18:20.531+02:00","tool":"sharepoint-mirror"}
+{"jobId":2,"level":"info","message":"(download) Download phase complete","timestamp":"2026-04-24T07:18:20.532+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connected to browser via CDP","timestamp":"2026-04-24T07:18:20.738+02:00","tool":"sharepoint-mirror"}
+{"jobId":2,"level":"info","message":"(download) Starting download phase...","timestamp":"2026-04-24T07:18:20.739+02:00","tool":"sharepoint-mirror"}
+{"jobId":2,"level":"info","message":"(download) Download phase complete","timestamp":"2026-04-24T07:18:20.740+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connecting to browser at http://localhost:9222...","timestamp":"2026-04-24T07:18:36.918+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connected to browser via CDP","timestamp":"2026-04-24T07:18:37.386+02:00","tool":"sharepoint-mirror"}
+{"jobId":2,"level":"info","message":"(download) Starting download phase...","timestamp":"2026-04-24T07:18:37.387+02:00","tool":"sharepoint-mirror"}
+{"jobId":2,"level":"info","message":"(download) Download phase complete","timestamp":"2026-04-24T07:18:37.388+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connecting to browser at http://localhost:9222...","timestamp":"2026-04-24T07:18:49.025+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connected to browser via CDP","timestamp":"2026-04-24T07:18:49.472+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Detected SharePoint site: https://login.microsoftonline.com","timestamp":"2026-04-24T07:18:51.939+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Detected library path: /Shared Documents","timestamp":"2026-04-24T07:18:51.940+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connecting to browser at http://localhost:9222...","timestamp":"2026-04-24T07:19:09.310+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connected to browser via CDP","timestamp":"2026-04-24T07:19:09.742+02:00","tool":"sharepoint-mirror"}
+{"jobId":2,"level":"info","message":"(download) Starting download phase...","timestamp":"2026-04-24T07:19:09.742+02:00","tool":"sharepoint-mirror"}
+{"jobId":2,"level":"info","message":"(download) Download phase complete","timestamp":"2026-04-24T07:19:09.743+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connecting to browser at http://localhost:9222...","timestamp":"2026-04-24T07:20:27.302+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connected to browser via CDP","timestamp":"2026-04-24T07:20:27.788+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Detected SharePoint site: https://login.microsoftonline.com","timestamp":"2026-04-24T07:20:30.645+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Detected library path: /Shared Documents","timestamp":"2026-04-24T07:20:30.645+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connecting to browser at http://localhost:9222...","timestamp":"2026-04-24T07:20:45.478+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connected to browser via CDP","timestamp":"2026-04-24T07:20:45.914+02:00","tool":"sharepoint-mirror"}
+{"jobId":1,"level":"info","libraryPath":"/sites/segittur/Shared Documents/01 Grupo de Destinos/01.04 Grupo Demo","message":"(discovery) Starting discovery phase...","timestamp":"2026-04-24T07:20:45.914+02:00","tool":"sharepoint-mirror"}
+{"jobId":1,"level":"info","message":"(discovery) Discovery phase complete","timestamp":"2026-04-24T07:20:45.915+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connecting to browser at http://localhost:9222...","timestamp":"2026-04-24T07:20:46.668+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connecting to browser at http://localhost:9222...","timestamp":"2026-04-24T07:20:46.858+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connecting to browser at http://localhost:9222...","timestamp":"2026-04-24T07:20:47.046+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connected to browser via CDP","timestamp":"2026-04-24T07:20:47.097+02:00","tool":"sharepoint-mirror"}
+{"jobId":1,"level":"info","libraryPath":"/sites/segittur/Shared Documents/01 Grupo de Destinos/01.04 Grupo Demo","message":"(discovery) Starting discovery phase...","timestamp":"2026-04-24T07:20:47.097+02:00","tool":"sharepoint-mirror"}
+{"jobId":1,"level":"info","message":"(discovery) Discovery phase complete","timestamp":"2026-04-24T07:20:47.098+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connected to browser via CDP","timestamp":"2026-04-24T07:20:47.295+02:00","tool":"sharepoint-mirror"}
+{"jobId":1,"level":"info","libraryPath":"/sites/segittur/Shared Documents/01 Grupo de Destinos/01.04 Grupo Demo","message":"(discovery) Starting discovery phase...","timestamp":"2026-04-24T07:20:47.296+02:00","tool":"sharepoint-mirror"}
+{"jobId":1,"level":"info","message":"(discovery) Discovery phase complete","timestamp":"2026-04-24T07:20:47.297+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connected to browser via CDP","timestamp":"2026-04-24T07:20:47.480+02:00","tool":"sharepoint-mirror"}
+{"jobId":1,"level":"info","libraryPath":"/sites/segittur/Shared Documents/01 Grupo de Destinos/01.04 Grupo Demo","message":"(discovery) Starting discovery phase...","timestamp":"2026-04-24T07:20:47.481+02:00","tool":"sharepoint-mirror"}
+{"jobId":1,"level":"info","message":"(discovery) Discovery phase complete","timestamp":"2026-04-24T07:20:47.481+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connecting to browser at http://localhost:9222...","timestamp":"2026-04-24T07:20:50.902+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connected to browser via CDP","timestamp":"2026-04-24T07:20:51.354+02:00","tool":"sharepoint-mirror"}
+{"jobId":1,"level":"info","message":"(download) Starting download phase...","timestamp":"2026-04-24T07:20:51.354+02:00","tool":"sharepoint-mirror"}
+{"jobId":1,"level":"info","message":"(download) Download phase complete","timestamp":"2026-04-24T07:20:51.355+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connecting to browser at http://localhost:9222...","timestamp":"2026-04-24T07:20:52.217+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connected to browser via CDP","timestamp":"2026-04-24T07:20:52.762+02:00","tool":"sharepoint-mirror"}
+{"jobId":1,"level":"info","message":"(download) Starting download phase...","timestamp":"2026-04-24T07:20:52.763+02:00","tool":"sharepoint-mirror"}
+{"jobId":1,"level":"info","message":"(download) Download phase complete","timestamp":"2026-04-24T07:20:52.764+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connecting to browser at http://localhost:9222...","timestamp":"2026-04-24T07:23:41.498+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connected to browser via CDP","timestamp":"2026-04-24T07:23:41.974+02:00","tool":"sharepoint-mirror"}
+{"jobId":3,"level":"info","libraryPath":"/Shared Documents","message":"(discovery) Starting discovery phase...","timestamp":"2026-04-24T07:23:41.975+02:00","tool":"sharepoint-mirror"}
+{"durationMs":331,"level":"debug","message":"API call","phase":"api","responseSize":0,"status":404,"timestamp":"2026-04-24T07:23:42.307+02:00","tool":"sharepoint-mirror","url":"undefined/_api/web/GetFolderByServerRelativeUrl('%2FShared%20Documents')?$expand=Folders,Files?$expand=Folders,Files"}
+{"level":"error","message":"Failed to process folder /Shared Documents: API 404 ","timestamp":"2026-04-24T07:23:42.309+02:00","tool":"sharepoint-mirror"}
+{"jobId":3,"level":"info","message":"(discovery) Discovery phase complete","timestamp":"2026-04-24T07:23:42.311+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connecting to browser at http://localhost:9222...","timestamp":"2026-04-24T07:23:49.946+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connected to browser via CDP","timestamp":"2026-04-24T07:23:50.401+02:00","tool":"sharepoint-mirror"}
+{"jobId":3,"level":"info","message":"(download) Starting download phase...","timestamp":"2026-04-24T07:23:50.402+02:00","tool":"sharepoint-mirror"}
+{"jobId":3,"level":"info","message":"(download) Download phase complete","timestamp":"2026-04-24T07:23:50.402+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connecting to browser at http://localhost:9222...","timestamp":"2026-04-24T07:23:51.338+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connecting to browser at http://localhost:9222...","timestamp":"2026-04-24T07:23:51.765+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connected to browser via CDP","timestamp":"2026-04-24T07:23:51.797+02:00","tool":"sharepoint-mirror"}
+{"jobId":3,"level":"info","message":"(download) Starting download phase...","timestamp":"2026-04-24T07:23:51.798+02:00","tool":"sharepoint-mirror"}
+{"jobId":3,"level":"info","message":"(download) Download phase complete","timestamp":"2026-04-24T07:23:51.800+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connecting to browser at http://localhost:9222...","timestamp":"2026-04-24T07:23:51.952+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connected to browser via CDP","timestamp":"2026-04-24T07:23:52.255+02:00","tool":"sharepoint-mirror"}
+{"jobId":3,"level":"info","message":"(download) Starting download phase...","timestamp":"2026-04-24T07:23:52.256+02:00","tool":"sharepoint-mirror"}
+{"jobId":3,"level":"info","message":"(download) Download phase complete","timestamp":"2026-04-24T07:23:52.257+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connected to browser via CDP","timestamp":"2026-04-24T07:23:52.440+02:00","tool":"sharepoint-mirror"}
+{"jobId":3,"level":"info","message":"(download) Starting download phase...","timestamp":"2026-04-24T07:23:52.441+02:00","tool":"sharepoint-mirror"}
+{"jobId":3,"level":"info","message":"(download) Download phase complete","timestamp":"2026-04-24T07:23:52.442+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connecting to browser at http://localhost:9222...","timestamp":"2026-04-24T07:33:32.477+02:00","tool":"sharepoint-mirror"}
+{"level":"error","message":"Failed to connect to browser. Ensure Chrome/Edge is running with --remote-debugging-port=9222","timestamp":"2026-04-24T07:33:32.802+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connecting to browser at http://localhost:9222...","timestamp":"2026-04-24T07:33:43.098+02:00","tool":"sharepoint-mirror"}
+{"level":"error","message":"Failed to connect to browser. Ensure Chrome/Edge is running with --remote-debugging-port=9222","timestamp":"2026-04-24T07:33:43.416+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connecting to browser at http://localhost:9222...","timestamp":"2026-04-24T07:37:15.042+02:00","tool":"sharepoint-mirror"}
+{"level":"error","message":"Failed to connect to browser. Ensure Chrome/Edge is running with --remote-debugging-port=9222","timestamp":"2026-04-24T07:37:15.352+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connecting to browser at http://localhost:9222...","timestamp":"2026-04-24T07:40:56.438+02:00","tool":"sharepoint-mirror"}
+{"level":"error","message":"Failed to connect to browser. Ensure Chrome/Edge is running with --remote-debugging-port=9222","timestamp":"2026-04-24T07:40:56.757+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connecting to browser at http://localhost:9222...","timestamp":"2026-04-24T07:49:11.892+02:00","tool":"sharepoint-mirror"}
+{"level":"error","message":"Failed to connect to browser. Ensure Chrome/Edge is running with --remote-debugging-port=9222","timestamp":"2026-04-24T07:49:12.213+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Connecting to browser at http://localhost:9222...","timestamp":"2026-04-24T07:49:33.307+02:00","tool":"sharepoint-mirror"}
+{"level":"error","message":"Failed to connect to browser. Ensure Chrome/Edge is running with --remote-debugging-port=9222","timestamp":"2026-04-24T07:49:33.615+02:00","tool":"sharepoint-mirror"}

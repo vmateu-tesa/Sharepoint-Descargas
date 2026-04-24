@@ -1,0 +1,431 @@
+{
+  "generatedAt": "2026-04-23T12:41:55.131Z",
+  "run": {
+    "id": 2,
+    "siteUrl": "https://consulting.eu.deloitteonline.com/sites/segittur",
+    "library": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos",
+    "startedAt": "2026-04-23 12:06:43",
+    "status": "completed"
+  },
+  "summary": {
+    "totalFolders": 9,
+    "totalFiles": 34,
+    "totalSizeBytes": 5449615692
+  },
+  "folders": [
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos",
+      "name": "02.01 General Destinos",
+      "parentUrl": null,
+      "depth": 0,
+      "status": "discovered",
+      "itemCount": 5
+    },
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR",
+      "name": "02.01.01 Documentación SEGITTUR",
+      "parentUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos",
+      "depth": 1,
+      "status": "discovered",
+      "itemCount": 21
+    },
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.04 Documentación técnica",
+      "name": "02.01.04 Documentación técnica",
+      "parentUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos",
+      "depth": 1,
+      "status": "discovered",
+      "itemCount": 0
+    },
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.02 Documentación administrativa",
+      "name": "02.01.02 Documentación administrativa",
+      "parentUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos",
+      "depth": 1,
+      "status": "discovered",
+      "itemCount": 0
+    },
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.03 Documentos y guías funcionales de usuario",
+      "name": "02.01.03 Documentos y guías funcionales de usuario",
+      "parentUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos",
+      "depth": 1,
+      "status": "discovered",
+      "itemCount": 0
+    },
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.05 Grabaciones formaciones",
+      "name": "02.01.05 Grabaciones formaciones",
+      "parentUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos",
+      "depth": 1,
+      "status": "discovered",
+      "itemCount": 3
+    },
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.05 Grabaciones formaciones/Webinars activacion Febrero-Marzo",
+      "name": "Webinars activacion Febrero-Marzo",
+      "parentUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.05 Grabaciones formaciones",
+      "depth": 2,
+      "status": "discovered",
+      "itemCount": 7
+    },
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.05 Grabaciones formaciones/Webinars Junio-Julio",
+      "name": "Webinars Junio-Julio",
+      "parentUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.05 Grabaciones formaciones",
+      "depth": 2,
+      "status": "discovered",
+      "itemCount": 2
+    },
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.05 Grabaciones formaciones/Webinars Septiembre-Octubre",
+      "name": "Webinars Septiembre-Octubre",
+      "parentUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.05 Grabaciones formaciones",
+      "depth": 2,
+      "status": "discovered",
+      "itemCount": 4
+    }
+  ],
+  "files": [
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.05 Grabaciones formaciones/Webinars Septiembre-Octubre/Formación S01 15.09.mp4",
+      "name": "Formación S01 15.09.mp4",
+      "folderUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.05 Grabaciones formaciones/Webinars Septiembre-Octubre",
+      "sizeBytes": 3448425269,
+      "modifiedAt": "2026-03-03T17:39:10Z",
+      "status": "failed",
+      "localPath": "02.01.05 Grabaciones formaciones\\Webinars Septiembre-Octubre\\Formación S01 15.09.mp4",
+      "sha256": null
+    },
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR/20250402_Ficha del Módulo S06 Reserva online - V2.0.pdf",
+      "name": "20250402_Ficha del Módulo S06 Reserva online - V2.0.pdf",
+      "folderUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR",
+      "sizeBytes": 390189,
+      "modifiedAt": "2025-04-28T08:51:55Z",
+      "status": "verified",
+      "localPath": "02.01.01 Documentación SEGITTUR\\20250402_Ficha del Módulo S06 Reserva online - V2.0.pdf",
+      "sha256": "6d8380600bb275459a779b9afebc59123e8fa20f59c3069c4e330a6df9bdc16a"
+    },
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR/20250402_Ficha del Módulo S17 Percepción ciudadana - V2.0.pdf",
+      "name": "20250402_Ficha del Módulo S17 Percepción ciudadana - V2.0.pdf",
+      "folderUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR",
+      "sizeBytes": 303251,
+      "modifiedAt": "2025-04-28T08:51:54Z",
+      "status": "verified",
+      "localPath": "02.01.01 Documentación SEGITTUR\\20250402_Ficha del Módulo S17 Percepción ciudadana - V2.0.pdf",
+      "sha256": "19d5935679aff9269bae5532fc1db56f1ebe6ed4f1919784a7c3d3dbbbad8f86"
+    },
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR/20250402_Ficha del Módulo S11 Inteligencia de localizaciones - V2.0.pdf",
+      "name": "20250402_Ficha del Módulo S11 Inteligencia de localizaciones - V2.0.pdf",
+      "folderUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR",
+      "sizeBytes": 356394,
+      "modifiedAt": "2025-04-28T08:51:53Z",
+      "status": "verified",
+      "localPath": "02.01.01 Documentación SEGITTUR\\20250402_Ficha del Módulo S11 Inteligencia de localizaciones - V2.0.pdf",
+      "sha256": "5f0b78090e100c0f57d4838852b3a7e423a86b9e29b0b2f7590075d861c3c759"
+    },
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR/20250402_Ficha del Módulo S01 Portal profesional - V2.0.pdf",
+      "name": "20250402_Ficha del Módulo S01 Portal profesional - V2.0.pdf",
+      "folderUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR",
+      "sizeBytes": 536077,
+      "modifiedAt": "2025-04-28T08:51:56Z",
+      "status": "verified",
+      "localPath": "02.01.01 Documentación SEGITTUR\\20250402_Ficha del Módulo S01 Portal profesional - V2.0.pdf",
+      "sha256": "23e4f7d5011032da5c6467fd85d3bf10f711162677ef0d665643b31a2c545da5"
+    },
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR/20250730-Casos de uso Integración ArcGIS-V1.0.pdf",
+      "name": "20250730-Casos de uso Integración ArcGIS-V1.0.pdf",
+      "folderUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR",
+      "sizeBytes": 2016449,
+      "modifiedAt": "2025-07-30T08:10:44Z",
+      "status": "verified",
+      "localPath": "02.01.01 Documentación SEGITTUR\\20250730-Casos de uso Integración ArcGIS-V1.0.pdf",
+      "sha256": "fb29a69876db0ce0d0156742c8963a9747e4fe72ac44832654810103a4b8aebe"
+    },
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR/20250402_Ficha del Módulo S07 App Turista - V2.0.pdf",
+      "name": "20250402_Ficha del Módulo S07 App Turista - V2.0.pdf",
+      "folderUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR",
+      "sizeBytes": 446987,
+      "modifiedAt": "2025-04-28T08:51:53Z",
+      "status": "verified",
+      "localPath": "02.01.01 Documentación SEGITTUR\\20250402_Ficha del Módulo S07 App Turista - V2.0.pdf",
+      "sha256": "429cff9994b14a14453f6ec7cf4c80bff4614d3699009ac06a87cb734f96f76f"
+    },
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR/20250402_Ficha del Módulo S02 Gestor de contenidos semántico - V2.0.pdf",
+      "name": "20250402_Ficha del Módulo S02 Gestor de contenidos semántico - V2.0.pdf",
+      "folderUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR",
+      "sizeBytes": 428557,
+      "modifiedAt": "2025-04-28T08:51:56Z",
+      "status": "verified",
+      "localPath": "02.01.01 Documentación SEGITTUR\\20250402_Ficha del Módulo S02 Gestor de contenidos semántico - V2.0.pdf",
+      "sha256": "ca7fe02ecdd2afe8298c0bacc7badf9056b36651e222b26253178b72cdacda73"
+    },
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR/20250402_Ficha del Módulo S10 App profesional - V2.0.pdf",
+      "name": "20250402_Ficha del Módulo S10 App profesional - V2.0.pdf",
+      "folderUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR",
+      "sizeBytes": 403650,
+      "modifiedAt": "2025-04-28T08:51:53Z",
+      "status": "verified",
+      "localPath": "02.01.01 Documentación SEGITTUR\\20250402_Ficha del Módulo S10 App profesional - V2.0.pdf",
+      "sha256": "338ebc276fbd2df13b1aa3396a5e3f6bdfc26fef07bb5b5486476bb13185962f"
+    },
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR/20250402_Ficha del Módulo S21 Planificador de rutas y viajes inteligentes - V1.0 (1).pdf",
+      "name": "20250402_Ficha del Módulo S21 Planificador de rutas y viajes inteligentes - V1.0 (1).pdf",
+      "folderUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR",
+      "sizeBytes": 289123,
+      "modifiedAt": "2025-06-30T11:59:29Z",
+      "status": "verified",
+      "localPath": "02.01.01 Documentación SEGITTUR\\20250402_Ficha del Módulo S21 Planificador de rutas y viajes inteligentes - V1.0 (1).pdf",
+      "sha256": "b31eab15dbd32ed01ab619aa6319e2b2a67996cd64cb472e79ff963a08dff0c8"
+    },
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR/20250402_Ficha del Módulo S14 SIT Destino - V2.0.pdf",
+      "name": "20250402_Ficha del Módulo S14 SIT Destino - V2.0.pdf",
+      "folderUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR",
+      "sizeBytes": 275625,
+      "modifiedAt": "2025-04-28T08:51:54Z",
+      "status": "verified",
+      "localPath": "02.01.01 Documentación SEGITTUR\\20250402_Ficha del Módulo S14 SIT Destino - V2.0.pdf",
+      "sha256": "7120349d2e826d5e37ed000b1cc6ff11eb01541e536395376e0fca0ce5c4a7cc"
+    },
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR/20250402_Ficha del Módulo S13 Índice de madurez digital pymes - V2.0.pdf",
+      "name": "20250402_Ficha del Módulo S13 Índice de madurez digital pymes - V2.0.pdf",
+      "folderUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR",
+      "sizeBytes": 324484,
+      "modifiedAt": "2025-04-28T08:51:54Z",
+      "status": "verified",
+      "localPath": "02.01.01 Documentación SEGITTUR\\20250402_Ficha del Módulo S13 Índice de madurez digital pymes - V2.0.pdf",
+      "sha256": "cf70bd612e05581ed5840ca794dff20bacab33ff6ed84f0434559af38d9f72d5"
+    },
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR/20250402_Ficha del Módulo S16 Reputación online - V2.0.pdf",
+      "name": "20250402_Ficha del Módulo S16 Reputación online - V2.0.pdf",
+      "folderUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR",
+      "sizeBytes": 268364,
+      "modifiedAt": "2025-04-28T08:51:54Z",
+      "status": "verified",
+      "localPath": "02.01.01 Documentación SEGITTUR\\20250402_Ficha del Módulo S16 Reputación online - V2.0.pdf",
+      "sha256": "72e1c87320d657ddbfe33d6b421d7942a638abfc86e8962bf9e642474965eb3b"
+    },
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR/20250402_Ficha del Modulo S18 Gestor avanzado de datos - V2.0.pdf",
+      "name": "20250402_Ficha del Modulo S18 Gestor avanzado de datos - V2.0.pdf",
+      "folderUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR",
+      "sizeBytes": 303647,
+      "modifiedAt": "2025-04-28T08:51:54Z",
+      "status": "verified",
+      "localPath": "02.01.01 Documentación SEGITTUR\\20250402_Ficha del Modulo S18 Gestor avanzado de datos - V2.0.pdf",
+      "sha256": "79deb7b5c406c21c514e6d5dcdd9e74e367314868658764b160a01b5cecdc3d7"
+    },
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR/20250402_Ficha del Módulo S19 Cuadro de mando destino DTI - V2.0.pdf",
+      "name": "20250402_Ficha del Módulo S19 Cuadro de mando destino DTI - V2.0.pdf",
+      "folderUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR",
+      "sizeBytes": 229298,
+      "modifiedAt": "2025-04-28T08:51:50Z",
+      "status": "verified",
+      "localPath": "02.01.01 Documentación SEGITTUR\\20250402_Ficha del Módulo S19 Cuadro de mando destino DTI - V2.0.pdf",
+      "sha256": "797ec1957e712a1e9e41c6a067c186dc9031f942e6f1f4b6e080930a728b57f1"
+    },
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR/20250402_Ficha del Módulo S20 Cuadro de mando de empresas - V2.0.pdf",
+      "name": "20250402_Ficha del Módulo S20 Cuadro de mando de empresas - V2.0.pdf",
+      "folderUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR",
+      "sizeBytes": 223832,
+      "modifiedAt": "2025-04-28T08:51:53Z",
+      "status": "verified",
+      "localPath": "02.01.01 Documentación SEGITTUR\\20250402_Ficha del Módulo S20 Cuadro de mando de empresas - V2.0.pdf",
+      "sha256": "3b2741eee194b0e9ebc7cc89c9dc1242bfe13bcec4ec7f0c414abb81558264f1"
+    },
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR/20250402_Ficha del Módulo S09 Gestión del Destino DTI - V2.0.pdf",
+      "name": "20250402_Ficha del Módulo S09 Gestión del Destino DTI - V2.0.pdf",
+      "folderUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR",
+      "sizeBytes": 408423,
+      "modifiedAt": "2025-04-28T08:51:53Z",
+      "status": "verified",
+      "localPath": "02.01.01 Documentación SEGITTUR\\20250402_Ficha del Módulo S09 Gestión del Destino DTI - V2.0.pdf",
+      "sha256": "9dd1994cc270f3611d14eae4e5576c428b297da4c8ee7ab3f13f7e298bf4f733"
+    },
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR/20250402_Ficha del Módulo S05 Interacción y fidelización - V2.0.pdf",
+      "name": "20250402_Ficha del Módulo S05 Interacción y fidelización - V2.0.pdf",
+      "folderUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR",
+      "sizeBytes": 368595,
+      "modifiedAt": "2025-04-28T08:51:55Z",
+      "status": "verified",
+      "localPath": "02.01.01 Documentación SEGITTUR\\20250402_Ficha del Módulo S05 Interacción y fidelización - V2.0.pdf",
+      "sha256": "81cc53139a97669bfd701488e5efc994f5b6e8dca495469eb762ecc41121f92c"
+    },
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR/20250402_Ficha del Módulo S15 Encuestas en destino - V2.0.pdf",
+      "name": "20250402_Ficha del Módulo S15 Encuestas en destino - V2.0.pdf",
+      "folderUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR",
+      "sizeBytes": 288422,
+      "modifiedAt": "2025-04-28T08:51:54Z",
+      "status": "verified",
+      "localPath": "02.01.01 Documentación SEGITTUR\\20250402_Ficha del Módulo S15 Encuestas en destino - V2.0.pdf",
+      "sha256": "18e5e3037b56135e506fb673a7877e7a340830be32ca9ec13de277540755436a"
+    },
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR/20250402_Ficha del Módulo S03 Portal destino - V2.0.pdf",
+      "name": "20250402_Ficha del Módulo S03 Portal destino - V2.0.pdf",
+      "folderUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR",
+      "sizeBytes": 597093,
+      "modifiedAt": "2025-04-28T08:51:55Z",
+      "status": "verified",
+      "localPath": "02.01.01 Documentación SEGITTUR\\20250402_Ficha del Módulo S03 Portal destino - V2.0.pdf",
+      "sha256": "8673f28674733a38f31ff14a7e46977292b9001361bda9d8617d0fe487aadf6a"
+    },
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR/20250402_Ficha del Módulo S04 Landing page - V2.0.pdf",
+      "name": "20250402_Ficha del Módulo S04 Landing page - V2.0.pdf",
+      "folderUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR",
+      "sizeBytes": 662813,
+      "modifiedAt": "2025-04-28T08:51:55Z",
+      "status": "verified",
+      "localPath": "02.01.01 Documentación SEGITTUR\\20250402_Ficha del Módulo S04 Landing page - V2.0.pdf",
+      "sha256": "b5841cc44837f72f7006da4efbdd770a019124a8fab4eea116f056421fa2bb1c"
+    },
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR/20250402_Ficha del Módulo S08 Asistente inteligente del viaje - V2.0.pdf",
+      "name": "20250402_Ficha del Módulo S08 Asistente inteligente del viaje - V2.0.pdf",
+      "folderUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.01 Documentación SEGITTUR",
+      "sizeBytes": 466759,
+      "modifiedAt": "2025-04-28T08:51:55Z",
+      "status": "verified",
+      "localPath": "02.01.01 Documentación SEGITTUR\\20250402_Ficha del Módulo S08 Asistente inteligente del viaje - V2.0.pdf",
+      "sha256": "9fcc9bad945fd98ee7c5b26357128d98e8d7f6eafb7f23a88bf7e566c87bea88"
+    },
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.05 Grabaciones formaciones/Webinars activacion Febrero-Marzo/18.03.26 (Beneficiarios).mp4",
+      "name": "18.03.26 (Beneficiarios).mp4",
+      "folderUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.05 Grabaciones formaciones/Webinars activacion Febrero-Marzo",
+      "sizeBytes": 166493106,
+      "modifiedAt": "2026-03-18T12:13:08Z",
+      "status": "verified",
+      "localPath": "02.01.05 Grabaciones formaciones\\Webinars activacion Febrero-Marzo\\18.03.26 (Beneficiarios).mp4",
+      "sha256": "b4f6537d7733da555545a70664264f56befc356120e57f0fd0882f6e21fe28ed"
+    },
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.05 Grabaciones formaciones/Webinars activacion Febrero-Marzo/13.03.26 - S09.mp4",
+      "name": "13.03.26 - S09.mp4",
+      "folderUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.05 Grabaciones formaciones/Webinars activacion Febrero-Marzo",
+      "sizeBytes": 139999600,
+      "modifiedAt": "2026-03-18T11:14:07Z",
+      "status": "verified",
+      "localPath": "02.01.05 Grabaciones formaciones\\Webinars activacion Febrero-Marzo\\13.03.26 - S09.mp4",
+      "sha256": "fb480a149278b8445248ec1dc05b84e8d88918e9ce45e8d0f20f3d78b8314438"
+    },
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.05 Grabaciones formaciones/Webinars activacion Febrero-Marzo/15.04 - Carga datos API.mp4",
+      "name": "15.04 - Carga datos API.mp4",
+      "folderUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.05 Grabaciones formaciones/Webinars activacion Febrero-Marzo",
+      "sizeBytes": 116973814,
+      "modifiedAt": "2026-04-17T06:27:40Z",
+      "status": "verified",
+      "localPath": "02.01.05 Grabaciones formaciones\\Webinars activacion Febrero-Marzo\\15.04 - Carga datos API.mp4",
+      "sha256": "ebfd73e712e2abe4a507b240cc15b3e8817401e7bcdaffa82f88fe532f5192f5"
+    },
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.05 Grabaciones formaciones/Webinars activacion Febrero-Marzo/06.03.26 - Activación y Graph QL.mp4",
+      "name": "06.03.26 - Activación y Graph QL.mp4",
+      "folderUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.05 Grabaciones formaciones/Webinars activacion Febrero-Marzo",
+      "sizeBytes": 136457261,
+      "modifiedAt": "2026-03-18T11:15:35Z",
+      "status": "verified",
+      "localPath": "02.01.05 Grabaciones formaciones\\Webinars activacion Febrero-Marzo\\06.03.26 - Activación y Graph QL.mp4",
+      "sha256": "59a9d746cf23b99369401cabfec99546a70c9eca1427b23d1636641bc19c8ced"
+    },
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.05 Grabaciones formaciones/Webinars activacion Febrero-Marzo/25.03.26 - S15,S16,S17.mp4",
+      "name": "25.03.26 - S15,S16,S17.mp4",
+      "folderUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.05 Grabaciones formaciones/Webinars activacion Febrero-Marzo",
+      "sizeBytes": 93482749,
+      "modifiedAt": "2026-03-25T17:23:37Z",
+      "status": "verified",
+      "localPath": "02.01.05 Grabaciones formaciones\\Webinars activacion Febrero-Marzo\\25.03.26 - S15,S16,S17.mp4",
+      "sha256": "e84d85af74c19151e17bc2744cf3e682da3d877e214e6706957b11fb06874b70"
+    },
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.05 Grabaciones formaciones/Webinars activacion Febrero-Marzo/18.03.26 (supra y peques) - S02 y S03.mp4",
+      "name": "18.03.26 (supra y peques) - S02 y S03.mp4",
+      "folderUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.05 Grabaciones formaciones/Webinars activacion Febrero-Marzo",
+      "sizeBytes": 311618691,
+      "modifiedAt": "2026-03-18T11:14:45Z",
+      "status": "verified",
+      "localPath": "02.01.05 Grabaciones formaciones\\Webinars activacion Febrero-Marzo\\18.03.26 (supra y peques) - S02 y S03.mp4",
+      "sha256": "d9e55791f17eb5fb7d861957dcc0d4206e7122e983c0be34f37a71c16a35620b"
+    },
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.05 Grabaciones formaciones/Webinars activacion Febrero-Marzo/27.02.26 - Módulos y Graph QL.mp4",
+      "name": "27.02.26 - Módulos y Graph QL.mp4",
+      "folderUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.05 Grabaciones formaciones/Webinars activacion Febrero-Marzo",
+      "sizeBytes": 109488665,
+      "modifiedAt": "2026-03-18T11:16:01Z",
+      "status": "verified",
+      "localPath": "02.01.05 Grabaciones formaciones\\Webinars activacion Febrero-Marzo\\27.02.26 - Módulos y Graph QL.mp4",
+      "sha256": "52478d2f66d58c402d967c09cd359900394c358696d7045908d10d6236c02a0d"
+    },
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.05 Grabaciones formaciones/Webinars Junio-Julio/Webinar Ontologia Tur 25.06.mp4",
+      "name": "Webinar Ontologia Tur 25.06.mp4",
+      "folderUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.05 Grabaciones formaciones/Webinars Junio-Julio",
+      "sizeBytes": 292687159,
+      "modifiedAt": "2026-03-03T15:19:39Z",
+      "status": "verified",
+      "localPath": "02.01.05 Grabaciones formaciones\\Webinars Junio-Julio\\Webinar Ontologia Tur 25.06.mp4",
+      "sha256": "7ab9097102c725972a9e4c898c6b6e249ed66221b9cb3532cfa7029731d634e2"
+    },
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.05 Grabaciones formaciones/Webinars Junio-Julio/Webinar IA 02.07.mp4",
+      "name": "Webinar IA 02.07.mp4",
+      "folderUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.05 Grabaciones formaciones/Webinars Junio-Julio",
+      "sizeBytes": 194320159,
+      "modifiedAt": "2026-03-03T15:16:37Z",
+      "status": "verified",
+      "localPath": "02.01.05 Grabaciones formaciones\\Webinars Junio-Julio\\Webinar IA 02.07.mp4",
+      "sha256": "29c1c1e39aae34e2b7b5abe7fff55ed10eaaba6c7c261cc5d37dc25277cbd0ee"
+    },
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.05 Grabaciones formaciones/Webinars Septiembre-Octubre/Formación S15 19.09.mp4",
+      "name": "Formación S15 19.09.mp4",
+      "folderUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.05 Grabaciones formaciones/Webinars Septiembre-Octubre",
+      "sizeBytes": 164435566,
+      "modifiedAt": "2026-03-03T17:40:30Z",
+      "status": "verified",
+      "localPath": "02.01.05 Grabaciones formaciones\\Webinars Septiembre-Octubre\\Formación S15 19.09.mp4",
+      "sha256": "cc27d24181f174e52f1ba211a0afc70e2b32b523f9c2d4a9e4f66e19a2147820"
+    },
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.05 Grabaciones formaciones/Webinars Septiembre-Octubre/Formación S16 25.09.mp4",
+      "name": "Formación S16 25.09.mp4",
+      "folderUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.05 Grabaciones formaciones/Webinars Septiembre-Octubre",
+      "sizeBytes": 142173286,
+      "modifiedAt": "2026-03-03T17:41:12Z",
+      "status": "verified",
+      "localPath": "02.01.05 Grabaciones formaciones\\Webinars Septiembre-Octubre\\Formación S16 25.09.mp4",
+      "sha256": "de517bdacb9a696467cf0a4312fbaecfd51be9483ee633d0fbd59ed8f3a7120b"
+    },
+    {
+      "serverRelativeUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.05 Grabaciones formaciones/Webinars Septiembre-Octubre/Formación S02 29.09.mp4",
+      "name": "Formación S02 29.09.mp4",
+      "folderUrl": "/sites/segittur/Shared Documents/02 Asesoramiento a destinos/02.01 General Destinos/02.01.05 Grabaciones formaciones/Webinars Septiembre-Octubre",
+      "sizeBytes": 123472335,
+      "modifiedAt": "2026-03-19T10:05:44Z",
+      "status": "verified",
+      "localPath": "02.01.05 Grabaciones formaciones\\Webinars Septiembre-Octubre\\Formación S02 29.09.mp4",
+      "sha256": "c5ac61bb5edc88a8b533c36a22948adcd5127d5c7efe2a132476c1d62738e8c2"
+    }
+  ]
+}

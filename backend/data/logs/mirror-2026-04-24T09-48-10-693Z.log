@@ -1,0 +1,2 @@
+{"level":"info","message":"State DB opened: C:\\Users\\vmate\\.gemini\\antigravity\\scratch\\sharepoint-mirror\\backend\\data\\app.db","timestamp":"2026-04-24T11:48:11.176+02:00","tool":"sharepoint-mirror"}
+{"level":"info","message":"Backend API running on http://localhost:3000","timestamp":"2026-04-24T11:48:11.181+02:00","tool":"sharepoint-mirror"}
